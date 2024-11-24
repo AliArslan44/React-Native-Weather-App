@@ -29,7 +29,7 @@ The application works as follows;
 When you swipe your hand from top to bottom on the first home screen that opens, you will see the city search screen. From there, you can search for the city you want and see the results. Also, for the weekly weather forecast, it will be enough to swipe left.
 ## API
 
-First of all, you need an API key from https://weatherapi.com or other API servers. If you do not want to use the premium or pro packages of the API servers, they give you a free 1 week to 1 month usage permission. When your trial period ends, your application becomes completely unusable. To prevent this situation, you will need a Rest API where you can change your API key or as a simple solution, you can add your API key to your database. As a result, we will have solved your application's API problem.
+First of all, you need an API key from https://www.weatherapi.com/ or other API servers. If you do not want to use the premium or pro packages of the API servers, they give you a free 1 week to 1 month usage permission. When your trial period ends, your application becomes completely unusable. To prevent this situation, you will need a Rest API where you can change your API key or as a simple solution, you can add your API key to your database. As a result, we will have solved your application's API problem.
 
 <img src="https://github.com/AliArslan44/React-Native-Weather-App/blob/main/screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-11-24%20150139.png?raw=true" width="400"/>
 
